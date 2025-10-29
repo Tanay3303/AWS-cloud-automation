@@ -1,0 +1,7 @@
+{
+    "region_name": "eu-north-1",
+    "instance_type": "t3.micro",
+    "image_id": "ami-0854d4f8e4bd6b834",     
+    "bucket_name": "first-s3-tanay-03",
+    "key_name": "EC2_1_"
+}

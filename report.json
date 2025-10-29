@@ -1,0 +1,7 @@
+{
+    "region_name": "eu-north-1",
+    "instance_type": "t3.micro",
+    "S3_bucket": "first-s3-tanay-03",
+    "timestamp": "2025-10-29 06:42:40.864198+00:00",
+    "instanceId": "i-02aa0d55c2cd7a80b"
+}
