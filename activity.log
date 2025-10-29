@@ -1,0 +1,12 @@
+2025-10-29 12:11:55,984 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-10-29 12:11:56,276 - INFO - AWS Session Created Successfully
+2025-10-29 12:11:57,911 - ERROR - Error creating S3 bucket :An error occurred (BucketAlreadyOwnedByYou) when calling the CreateBucket operation: Your previous request to create the named bucket succeeded and you already own it.
+2025-10-29 12:12:00,405 - INFO - EC2 instance created : i-07a9d6586eff461d8
+2025-10-29 12:12:02,934 - WARNING - IAM key age > 90 days for Tanay
+2025-10-29 12:12:04,470 - INFO - Report Generated
+2025-10-29 12:12:32,555 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-10-29 12:12:32,825 - INFO - AWS Session Created Successfully
+2025-10-29 12:12:34,356 - ERROR - Error creating S3 bucket :An error occurred (BucketAlreadyOwnedByYou) when calling the CreateBucket operation: Your previous request to create the named bucket succeeded and you already own it.
+2025-10-29 12:12:36,926 - INFO - EC2 instance created : i-02aa0d55c2cd7a80b
+2025-10-29 12:12:39,397 - WARNING - IAM key age > 90 days for Tanay
+2025-10-29 12:12:40,865 - INFO - Report Generated
